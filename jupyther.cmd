@@ -1,1 +1,0 @@
-C:\ProgramData\Anaconda3\python.exe "C:/ProgramData/Anaconda3/Scripts/jupyter-notebook-script.py"
